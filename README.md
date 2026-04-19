@@ -13,11 +13,11 @@ Menu - '_Insert_'
 
  
  
- 3. In the Include Directories box, click the arrow and select Edit, then add this path: 
+3. In the Include Directories box, click the arrow and select Edit, then add this path: 
 
 
 
-   $(DXSDK_DIR)Include
+                     $(DXSDK_DIR)Include
  
  
 
